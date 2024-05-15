@@ -1,0 +1,23 @@
+{
+  "name": "smart-brain",
+  "version": "1.0.0",
+  "description": "AI image detection web application",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Adrian Tomin",
+  "private": true,
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianTomin/smart-brain.git"
+  },
+  "scripts": {
+    "typedoc": "typedoc --options typedoc.json --skipErrorChecking"
+  },
+  "devDependencies": {
+    "typedoc": "^0.25.12"
+  },
+  "dependencies": {
+    "smart-brain": "link:"
+  }
+}
