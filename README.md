@@ -6,35 +6,34 @@ Smart Brain is a web application whose main functionality revolves around utiliz
 Built with: 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-**Next.js**: Next.js is the framework for building React applications, providing server-side rendering, and other features.
+Next.js is the framework for building React applications, providing server-side rendering, and other features.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-**TypeScript**: TypeScript is used for type-checking and adding static types to JavaScript code, enhancing development productivity, and code maintainability.
+TypeScript is for type-checking and adding static types to JavaScript code, enhancing development productivity, and code maintainability.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-**React**: React is used for building the application's user interface components, providing a dynamic and responsive user experience.
+React is for building the application's user interface components, providing a dynamic and responsive user experience.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-**NodeJS**: Node.js is used for running the server-side application
+Node.js is for running the server-side application
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-**ExpressJS**: Express.js is the backend framework that handles server-side logic and API requests.
+Express.js is the backend framework that handles server-side logic and API requests.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-**MongoDB**: MongoDB is used as the database to store and manage application data.
+MongoDB is the database to store and manage application data.
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-**SCSS**: SCSS (Sass) is used as the CSS preprocessor to enhance styling capabilities and maintainability.
+SCSS (Sass) is a CSS preprocessor to enhance styling capabilities and maintainability.
 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-**Apollo GraphQL**: Apollo GraphQL is used to implement GraphQL on the server side, enabling efficient data fetching and management.
+Apollo GraphQL implements GraphQL on the server side, enabling efficient data fetching and management.
 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-**MUI (Material UI)**: MUI is used for customizable prebuilt React components.
-
+MUI is for customizable prebuilt React components.
 
 ![Cypress](https://img.shields.io/badge/Cypress-%234ea94b.svg?style=for-the-badge&logo=cypress&logoColor=white)
-**Cypress**: Cypress is used for end-to-end application testing, ensuring its functionality across different scenarios.
+Cypress is for end-to-end application testing, ensuring its functionality across different scenarios.
 
 
 
