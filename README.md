@@ -77,15 +77,15 @@ https://github.com/AdrianTomin/Smart-Brain-Public/assets/115752624/29389991-230c
 - Gather API Keys: Once you have created a new app, navigate to the Clarifai model we will use [here](https://clarifai.com/clarifai/main/models/general-image-recognition). 
 - Click on "Use Model", "Call by API", then "Javascript". Here you will see the values we need to provide to call the API we will use.
 - In `/frontend`, create a file called `.env.local` and create the following variables with the values that Clarifai provides you with:
-`NEXT_PUBLIC_PAT=[YOUR_PAT]`
+- `NEXT_PUBLIC_PAT=[YOUR_PAT]`
 
-`NEXT_PUBLIC_USER_ID=clarifai`
+- `NEXT_PUBLIC_USER_ID=clarifai`
 
-`NEXT_PUBLIC_APP_ID=main`
+- `NEXT_PUBLIC_APP_ID=main`
 
-`NEXT_PUBLIC_MODEL_ID=general-image-recognition`
+- `NEXT_PUBLIC_MODEL_ID=general-image-recognition`
 
-`NEXT_PUBLIC_MODEL_VERSION_ID=aa7f35c01e0642fda5cf400f543e7c40`
+- `NEXT_PUBLIC_MODEL_VERSION_ID=aa7f35c01e0642fda5cf400f543e7c40`
 
 ## Run Locally
 
