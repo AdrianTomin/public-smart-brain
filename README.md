@@ -93,7 +93,7 @@ To run the application locally, follow these steps:
 
 1. Create a new project directory `mkdir <project-directory>`
 2. Navigate to the project directory: `cd <project-directory>`
-3. Clone the repository from GitHub: `git clone https://github.com/AdrianTomin/smart-brain` 
+3. Clone the repository from GitHub: `git clone https://github.com/AdrianTomin/smart-brain-public.git`
 4. Install dependencies with either:
 
    -  `npm i`
