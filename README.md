@@ -41,6 +41,7 @@ Cypress is for end-to-end application testing, ensuring its functionality across
 
 - The main functionality of this project is centred around utilizing the Clarifai API for general image recognition. Users can upload images, and the application uses the Clarifai API to analyze and recognize the contents of the images, providing relevant information or insights.
 - CRUD accessibility to all user accounts.
+- Responsive to different types of screen sizes and devices.
 
 
 
