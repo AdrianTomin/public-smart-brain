@@ -91,16 +91,17 @@ https://github.com/AdrianTomin/Smart-Brain-Public/assets/115752624/29389991-230c
 
 To run the application locally, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/AdrianTomin/smart-brain`
+1. Create a new project directory `mkdir <project-directory>`
 2. Navigate to the project directory: `cd <project-directory>`
-Install dependencies with either:
+3. Clone the repository from GitHub: `git clone https://github.com/AdrianTomin/smart-brain` 
+4. Install dependencies with either:
 
-   `npm i`,
-   `yarn add`,
-   `pnpm i`
+   -  `npm i`
+   - `yarn add`
+   - `pnpm i`
 
-3. Under `/frontend/package.json` run `build-and-start` to start both the front and back end.
-4. Open your browser and visit the provided localhost URL to use the application.
+5. Under `/frontend/package.json` run `build-and-start` to start both the front and back end.
+6. Open your browser and visit the provided localhost URL to use the application.
    
    
 ## Authors
