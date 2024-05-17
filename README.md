@@ -15,7 +15,7 @@ TypeScript is for type-checking and adding static types to JavaScript code, enha
 React is for building the application's user interface components, providing a dynamic and responsive user experience.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-Node.js is for running the server-side application
+Node.js is for running the server-side application.
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 Express.js is the backend framework that handles server-side logic and API requests.
